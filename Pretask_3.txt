@@ -1,0 +1,5 @@
+Tom 12000
+David 24000
+Roma 2000
+Bob 53000
+Sveta 15000
